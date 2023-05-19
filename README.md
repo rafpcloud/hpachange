@@ -1,2 +1,2 @@
 # hpachange
-Script to change Openshift Horizontal Autoscaler Apiversion after Cluster Version migration
+ShellScript to change Openshift Horizontal Autoscaler Apiversion after Cluster Version migration
